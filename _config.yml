@@ -55,6 +55,8 @@ footer:
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin2: "dark"
+
 plugins:
   - jekyll-feed
   - jekyll-archives
