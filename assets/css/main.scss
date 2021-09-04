@@ -4,13 +4,12 @@
 
 @charset "utf-8";
 
+$link-color: #FF533D;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-a {
-    text-decoration: none;
-    color: #0000FF;
-}
+
 body {
-    font-size: large;
+    font-size: medium;
 }
