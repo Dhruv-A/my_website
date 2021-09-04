@@ -91,7 +91,7 @@ plt.plot(x, y, 'b')
 plt.show()
 ~~~
 
-And this produces the following curve plotting case numbers against days since 1st June 2021.
+And this produces the following curve plotting case numbers against days since 1st July 2021.
 
 ![](/assets/images/Post-Graphing_COVID/covid_curve.png)
 
@@ -156,7 +156,7 @@ This was the best approximation for the COVID graph I could find using a simple 
 
 ## Predicting Future COVID Values
 
-Using the exponential curve, I created a function $ g $ to predict the number of cases a specified number of days after 1st June 2021.
+Using the exponential curve, I created a function $ g $ to predict the number of cases a specified number of days after 1st July 2021.
 
 ~~~python
 def g(t):
