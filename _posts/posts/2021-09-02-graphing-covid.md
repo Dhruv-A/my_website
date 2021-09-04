@@ -3,7 +3,12 @@ layout: single
 categories: posts
 tags: posts
 title: Graphing NSW COVID Cases with Python
+postage: true
 ---
+
+
+*<span style="font-size: 0.8em">Analysing the COVID cases in NSW and predicting future cases using Python.</span>*
+
 
 ## Rationale
 

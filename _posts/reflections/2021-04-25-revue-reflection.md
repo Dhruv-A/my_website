@@ -3,6 +3,7 @@ layout: single
 categories: reflections
 tags: reflections
 title: Acting, Singing, Dancing
+refl: true
 ---
 
 *<span style="font-size: 0.8em">UNSW Med Revue is an annual comedy-sketch show with acting, singing, dancing **and** a live band.</span>*
