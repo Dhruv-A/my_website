@@ -54,6 +54,15 @@ In the end, I learnt so many new skills that I can employ in my everyday life. I
 
 I realised how bland all my clothes are. I struggled a lot while searching through my wardrobe for clothes matching each sketch. I spent so many hours searching through the same clothes and looking at the list I had hoping that searching one more time would yield one of the costumes I needed. In the end, I borrowed some stuff from my parents, other people and bought the rest. I'm probably going to make sure that I'm not wearing variations of the exact same thing everyday 🙄.
 
+### Marketing
+
+One of the biggest parts of selling the show was on-campus marketing. There were schedules everyday for specific people to market the show with flyers and posters. For the duration of the 2 weeks marketing, this remained something I never looked forward to. From waking up early and driving to uni only to spend half an hour trying to find somewhere to park, to the mass of people walking the long way to where they were going just to avoid us, the whole experience was really tedious.
+
+However, it did help me learn a lot about marketing an idea to someone. When we were standing outside, we only had moments to convince someone to stop and take a look at our posters. We had to deliver a huge amount of information within those mere seconds and also make it interesting enough that people listened. This was actually very insightful. Although I'm not too keen on this form of marketing, and I hope that revue dabbles into the digital space in the future, I know that this experience definitely helped me learn how to pitch an idea concisely.
+
+One more thing I learnt was the importance of resilience and confidence. Walking around to people who were stuydying or eating and asking them if they wanted to watch a comedy sketch show seemed like such an awkward thing to do. There were countless people who completely ignored our presence and didn't even want to give us 5 seconds, however, these were completely overshadowed by the few people who stayed, listened and even asked questions aobut the show. I looked forward to moved people like those and they were the moments when I actually enjoyed what were doing.
+
+
 ## Show Night
 
 I don't think I'll ever forget the feeling of staying behind the curtains, listening to the band and knowing that in a few seconds, I'd be on the stage performing. From rushing to finish my makeup and get my quick changes ready on both sides of the stage to heading to where we were staying for the week and playing boardgames till 3am, the whole experience was so exciting and memorable. I definitely want to continue being involved with [UNSW Med Revue](https://www.facebook.com/MedRevue) in the future.
