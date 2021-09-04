@@ -179,4 +179,6 @@ The biggest limitation of the model I used is that the curve will continue to ex
 
 ## Next Steps
 
-I want to model percentage of the population vaccinated on the same graph and look at how the increase in vaccinations is affecting the curve. Additionally, I want to look at different COVID restrictions implemented over the timeline of the graph and work out whether they lowered the approximated exponential graph before the restrictions took effect.
+I want to create models for the *best case* and *worst case* situation each day, whereby the cases should remain between two threshold lines.
+
+I also want to model percentage of the population vaccinated on the same graph and look at how the increase in vaccinations is affecting the curve. Additionally, I want to look at different COVID restrictions implemented over the timeline of the graph and work out whether they lowered the approximated exponential graph before the restrictions took effect.
