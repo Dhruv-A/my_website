@@ -92,7 +92,7 @@ Ferguson, A.S. (1922). Plato’s Simile of Light (continued). Part II. The Alleg
 
 Finch, J. and Sell, R.D. (2009). *Humane readings: essays on literary mediation and communication in honour of Roger D. Sell*. Amsterdam Benjamins.
 
-Gilad, E. (2019). Shoah: How a Biblical Term Became the Hebrew Word for Holocaust. *Haaretz*. [online] 1 May. Available [here](https://www.haaretz.com/jewish/holocaust-remembrance-day/.premium-shoah-how-a-biblical-term-became-the-hebrew-word-for-holocaust-1.5236861).
+Gilad, E. (2019). Shoah: How a Biblical Term Became the Hebrew Word for Holocaust. *Haaretz*. [online] 1 May. Available [here](https://www.haaretz.com/jewish/holocaust-remembrance-day/.premium-shoah-how-a-biblical-term-became-the-hebrew-word-for-holocaust-1.5236861){:target="_blank"}.
 
 Gilbert, J. (2012). *Collected* poems. New York: Alfred A. Knopf.
 
@@ -119,11 +119,11 @@ Kahn, L.S. (1980). The dynamics of scapegoating: The expulsion of evil. *Psychot
 
 Lawrence, E.A. (1994). The Centaur: Its History and Meaning in Human Culture. *The Journal of Popular Culture*, 27(4), pp.57–68.
 
-Levi, P. (2015). *Quaestio de Centauris*. [online] The New Yorker. Available [here](https://www.newyorker.com/magazine/2015/06/08/quaestio-de-centauris).
+Levi, P. (2015). *Quaestio de Centauris*. [online] The New Yorker. Available [here](https://www.newyorker.com/magazine/2015/06/08/quaestio-de-centauris){:target="_blank"}.
 
 Maurice, L. (2015). *The reception of ancient Greece and Rome in children’s literature: heroes and eagles*. Leiden: Brill.
 
-Messerly, J. (2014). *Summary of Plato’s Theory of Human Nature*. [online] Reason and Meaning. Available [here](https://reasonandmeaning.com/2014/10/11/theories-of-human-nature-chapter-7-plato-part-1).
+Messerly, J. (2014). *Summary of Plato’s Theory of Human Nature*. [online] Reason and Meaning. Available [here](https://reasonandmeaning.com/2014/10/11/theories-of-human-nature-chapter-7-plato-part-1){:target="_blank"}.
 
 O’Higgins Norman, J. and Connolly, J. (2011). Mimetic theory and scapegoating in the age of cyberbullying: the case of Phoebe Prince. *Pastoral Care in Education*, 29(4), pp.287–300.
 
@@ -141,7 +141,7 @@ Ringelheim, J. (1996). Preface to the study of women and the holocaust. *Contemp
 
 Snyder, L.M. (1979). The Deserting, Nonsupporting Father: Scapegoat of Family Nonpolicy. *The Family Coordinator*, 28(4), p.594.
 
-The Editors of Encyclopaedia Britannica (2019). What Is the Origin of the Term Holocaust? In: *Encyclopædia Britannica*. [online] Available [here](https://www.britannica.com/story/what-is-the-origin-of-the-term-holocaust).
+The Editors of Encyclopaedia Britannica (2019). What Is the Origin of the Term Holocaust? In: *Encyclopædia Britannica*. [online] Available [here](https://www.britannica.com/story/what-is-the-origin-of-the-term-holocaust){:target="_blank"}.
 
 Thomas, S. (2015). Alice in Wonderlandand Through the Looking Glass: Heterocosm as a Mimetic Device. *New Review of Children’s Literature and Librarianship*, 21(1), pp.42–58. 
 
@@ -149,32 +149,32 @@ Thomas, S. (2015). Alice in Wonderlandand Through the Looking Glass: Heterocosm 
 ### Footnotes
 
 [^1]: Jack Gilbert, Collected Poems (2012).
-[^2]: Human Rights Watch (2020), [HRW Rohinya](https://www.hrw.org/tag/rohingya).
-[^3]: Human Rights Watch (2020), [HRW Evidence of Abuse](https://www.hrw.org/news/2020/02/20/more-evidence-chinas-horrific-abuses-xinjiang).
+[^2]: Human Rights Watch (2020), [HRW Rohinya](https://www.hrw.org/tag/rohingya){:target="_blank"}.
+[^3]: Human Rights Watch (2020), [HRW Evidence of Abuse](https://www.hrw.org/news/2020/02/20/more-evidence-chinas-horrific-abuses-xinjiang){:target="_blank"}.
 [^4]: Matthew Potolsky, Mimesis (2006), 3-6.
 [^5]: Laura Barge, René Girard's Categories of Scapegoats and Literature of the South (2001), 247.
-[^6]: Leviticus 16:9 [Bible Text](http://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/LEV+16.html#:~:text=Aaron%20shall%20bring%20the%20goat,the%20desert%20as%20a%20scapegoat).
+[^6]: Leviticus 16:9 [Bible Text](http://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/LEV+16.html#:~:text=Aaron%20shall%20bring%20the%20goat,the%20desert%20as%20a%20scapegoat){:target="_blank"}.
 [^7]: Tom Douglas, Scapegoats: Transferring Blame (1995), 40.
 [^8]: René Girard, The Girard Reader, ed. James G. Williams (1996), 165.
 [^9]: Anthonie Holslag, The Process of Othering from the “Social Imaginaire” to Physical Acts: An Anthropological Approach (2015), 96.
 [^10]: Plato, Covered in Republic Book VII, trans. Benjamin Jowett (2017).
 [^11]: Primo Levi, Quaestio de Centauris (1961).
-[^12]: Jenny McPhee (2015), The New Yorker, [Quaestio de Centauris](https://www.newyorker.com/magazine/2015/06/08/quaestio-de-centauris).
+[^12]: Jenny McPhee (2015), The New Yorker, [Quaestio de Centauris](https://www.newyorker.com/magazine/2015/06/08/quaestio-de-centauris){:target="_blank"}.
 [^13]: Janette Edwards, Expatriate Literature and the Problem of Contested Representation: The Case of Khaled Hosseini’s The Kite Runner (2008), 4.
 [^14]: James O’Higgins Norman & Justin Connolly, Mimetic theory and scapegoating in the age of cyberbullying: the case of Phoebe Prince (2011), 294.
 [^15]: William Ophuls, Plato's Revenge: Politics in the Age of Ecology (2011), 77.
-[^16]: Samson Thomas (2015), T&F Online, [T&F Article](https://www.tandfonline.com/doi/abs/10.1080/13614541.2015.976078).
+[^16]: Samson Thomas (2015), T&F Online, [T&F Article](https://www.tandfonline.com/doi/abs/10.1080/13614541.2015.976078){:target="_blank"}.
 [^17]: Consortium, A Journal of Crossdisciplinary Inquiry (2012), 15.
 [^18]: Carole Juge, The Road to the Sun They Cannot See: Plato's Allegory of the Cave, Oblivion, and Guidance in Cormac McCarthy's The Road (2009), 19.
 [^19]: Charles H. Kahn, Plato and the Socratic Dialogue: The Philosophical Use of a Literary Form (1996).
 [^20]: Nora Berning, Fictual Matters. Narration as a Process of Relating in Mark Bowden’s Blackhawk Down (1997), 14.
 [^21]: Lisa Maurice, The Reception of Ancient Greece and Rome in Children’s Literature (2015).
 [^22]: Laura Feldt, Wilderness in Mythology and Religion: Approaching Religious Spatialities, Cosmologies, and Ideas of Wild Nature (2012), 33.
-[^23]: Wollheim Memorial, [Primo Levi Article](http://www.wollheim-memorial.de/en/primo_levi_19191987).
+[^23]: Wollheim Memorial, [Primo Levi Article](http://www.wollheim-memorial.de/en/primo_levi_19191987){:target="_blank"}.
 [^24]: Mirna Cicioni, Primo Levi: Bridges of Knowledge (1995), 22-24.
 [^25]: Nicholas Patruno, Understanding Primo Levi (2008), 1-5.
-[^26]: Elon Gilad (2019), Haaretz, [How Shoah became Holocaust](https://www.haaretz.com/jewish/holocaust-remembrance-day/.premium-shoah-how-a-biblical-term-became-the-hebrew-word-for-holocaust-1.5236861).
-[^27]: The Editors of Encyclopaedia Britannica, Encyclopaedia Britannica, [Origin of Holocaust](https://www.britannica.com/story/what-is-the-origin-of-the-term-holocaust).
+[^26]: Elon Gilad (2019), Haaretz, [How Shoah became Holocaust](https://www.haaretz.com/jewish/holocaust-remembrance-day/.premium-shoah-how-a-biblical-term-became-the-hebrew-word-for-holocaust-1.5236861){:target="_blank"}.
+[^27]: The Editors of Encyclopaedia Britannica, Encyclopaedia Britannica, [Origin of Holocaust](https://www.britannica.com/story/what-is-the-origin-of-the-term-holocaust){:target="_blank"}.
 [^28]: Linda M. Belau, Viewing the Impossible: The U.S. Holocaust Memorial Museum (2008), 15.
 [^29]: Ewa Tichoniuk - Wawrowicz, L'ibridismo nell'opera primoleviana (2017), 95.
 [^30]: Primo Levi, Ferdinando Camon, Conversations with Primo Levi (1982), 3.
@@ -182,7 +182,7 @@ Thomas, S. (2015). Alice in Wonderlandand Through the Looking Glass: Heterocosm 
 [^32]: Dreyer PS, Pedersen BD, Distanciation in Ricoeur's theory of interpretation: narrations in a study of life experiences of living with chronic illness and home mechanical ventilation (2009), 64-73.
 [^33]: John N. Duvall, The Cambridge Companion to American Fiction After 1945 (2011), 68.
 [^34]: René Girard, Jean-Michel Oughourlian, and Guy Lefort, Things Hidden Since the Foundation of the World (1987), 26.
-[^35]: John Messerly (2014), Reason and Meaning, [Theories of Human Nature](https://reasonandmeaning.com/2014/10/11/theories-of-human-nature-chapter-7-plato-part-1).
+[^35]: John Messerly (2014), Reason and Meaning, [Theories of Human Nature](https://reasonandmeaning.com/2014/10/11/theories-of-human-nature-chapter-7-plato-part-1){:target="_blank"}.
 [^36]: Sherwood Belangia, Metaphysical Desire in Girard and Plato (2010), 2.
 [^37]: Isabella Luaces, Sula, Literary Scapegoats, and Contemporary Black Women (2018), 38.
 [^38]: Ursula K. Le Guin, The Ones Who Walk Away from Omelas (1973).
