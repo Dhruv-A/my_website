@@ -12,7 +12,7 @@ postage: true
 
 ## Rationale
 
-I currently have uni holidays in lockdown and looking at the cases rising exponentially every single day is really demotivating and frustrating. However, looking at the numbers every passing day made me curious and I wanted to estimate the growth of cases in the state using basic models.
+I currently have uni holidays in lockdown and looking at the cases rising exponentially every single day is really demotivating and frustrating. However, looking at the numbers every passing day made me curious and I wanted to estimate the growth of cases in the state using basic models. I decided to use Python to model it because I haven't used it in a while and wanted to learn how to plot stuff with it.
 
 ## Goals
 
@@ -46,13 +46,13 @@ fileobj = urllib.request.urlopen(url)
 y = json.load(fileobj)
 ~~~
 
-When I printed out the cases, it returned a lot of messy text.
+When I printed out the cases, it returned a lot of information about each case.
 
 ~~~
 {'help': 'https://data.nsw.gov.au/data/api/3/action/help_show?name=datastore_search', 'success': True, 'result': {'include_total': True, 'limit': 1, 'records_format': 'objects', 'resource_id': '2776dbb8-f807-4fb2-b1ed-184a6fc2c8aa', 'total_estimation_threshold': None, 'records': [{'notification_date': '2020-10-10', 'postcode': None, 'likely_source_of_infection': 'Overseas', 'lhd_2010_code': None, 'lhd_2010_name': None, 'lga_code19': None, 'lga_name19': None}], 'fields': [{'id': 'notification_date', 'type': 'text'}, {'id': 'postcode', 'type': 'text'}, {'id': 'likely_source_of_infection', 'type': 'text'}, {'id': 'lhd_2010_code', 'type': 'text'}, {'id': 'lhd_2010_name', 'type': 'text'}, {'id': 'lga_code19', 'type': 'text'}, {'id': 'lga_name19', 'type': 'text'}], '_links': {'start': '/api/3/action/datastore_search?resource_id=2776dbb8-f807-4fb2-b1ed-184a6fc2c8aa&limit=1', 'next': '/api/3/action/datastore_search?resource_id=2776dbb8-f807-4fb2-b1ed-184a6fc2c8aa&limit=1&offset=1'}, 'total': 30618, 'total_was_estimated': False}}
 ~~~
 
-However, looking through this, I realised what pieces of information mattered. The next step was to tally all the cases per day. I created a dictionary with the current date as the key and case number as the value. Cycling through each case's data also allows me to come back later and sort by other criteria such as location or age which is something I want to look at in the future.
+However, looking through this, I realised what pieces of information mattered; at this point I was only concerned about the *notification-date* but also wanted to look at the *lga location* at some point. The next step was to tally all the cases per day. I created a dictionary with the current date as the key and case number as the value. Cycling through each case's data also allows me to come back later and sort by other criteria such as location or age which is something I want to look at in the future.
 
 ~~~python
 # loop through the cases and find how many in 2021 because we
