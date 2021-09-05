@@ -108,5 +108,4 @@ Recently, I've been participating in a lot of Puzzlesoc events. These are a real
 
 I want to take part in the CSESoc Industry Mentoring Program for computer science. I think that learning from someone who works in computer science will be very useful in orienting my ambitions and reconsidering my goals as I move into my 2nd year of university.
 
-### Image Credits
-Photo by <a href="https://unsplash.com/@sushioutlaw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brian McGowan</a> on <a href="https://unsplash.com/s/photos/covid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+*Image Credit for 1st COVID Image: <a href="https://unsplash.com/@sushioutlaw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brian McGowan</a> on <a href="https://unsplash.com/s/photos/covid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
