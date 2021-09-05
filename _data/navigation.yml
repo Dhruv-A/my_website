@@ -5,3 +5,5 @@ main:
     url: /posts/
   - title: "Reflections"
     url: /reflections/
+  - title: "Subject Review"
+    url: /subjects/
