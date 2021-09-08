@@ -11,5 +11,5 @@ layout: splash
 Visit Project Onecore below for quick and simple coding tutorials or the other links for my posts and reflections!
 
 
-[Onecore](https://onecore.tech){: .btn}{:target="_blank"} [Posts](/posts){: .btn} [Reflections](/reflections){: .btn}[Subject Review](/subjects){: .btn}{: .text-center}
+[Onecore](https://onecore.tech){: .btn} [Posts](/posts){: .btn} [Reflections](/reflections){: .btn}[Subject Review](/subjects){: .btn}{: .text-center}
 {: .text-center}
