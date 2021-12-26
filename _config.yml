@@ -51,6 +51,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Dhruv-A"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/dhruv--agrawal"
 
 # Build settings
 theme: minimal-mistakes-jekyll
