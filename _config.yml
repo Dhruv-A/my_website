@@ -43,6 +43,11 @@ defaults:
     values:
       show_date: true # shows the dates of posts
       read_time: true # adds the read time of an article - default = 200wpm
+      comments: true
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "dhruvagrawal"
 
 search: true # site-wide search is enabled
 
