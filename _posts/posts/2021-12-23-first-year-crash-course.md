@@ -278,7 +278,7 @@ Some of the societies that I participated in and really recommend include:
 
 - **CSESoc** - Computer Science and Engineering Society
 - **SecSoc** - Security Society
-- **Med Revue** - [Comedy sketchshow]((https://dhruvagrawal.org/reflections/revue-reflection/)) for anyone interesting in acting, singing and dancing (you don't have to do med to join!)
+- **Med Revue** - [Comedy sketchshow](https://dhruvagrawal.org/reflections/revue-reflection) for anyone interesting in acting, singing and dancing (you don't have to do med to join!)
 - **Puzzlesoc** - Puzzle society (has good vibes)
 
 # Competitions
