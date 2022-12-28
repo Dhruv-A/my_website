@@ -4,6 +4,7 @@ categories: posts
 tags: posts
 title: Personal Projects and Hackathons
 postage: true
+labels: educational
 ---
 
 *<span style="font-size: 0.8em">This article is an aesthetic modification of an article I wrote in the UNSW Computer Science and Engineering Society First Year Guide for 2022. That article can be found [here](https://media.csesoc.org.au/fyg-2022-personal-projects-hackathons/). The images and styling in that article were not implemented by me, however, the content and styling in this article is my own work. All images are from [Unsplash](https://unsplash.com/).</span>*

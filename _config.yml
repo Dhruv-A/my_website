@@ -26,7 +26,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dhruvagrawal.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Dhruv-A
 
-
 # site config setup
 name: Dhruv Agrawal # me
 logo: "/assets/images/cloud_pfp.png" # my profile pic

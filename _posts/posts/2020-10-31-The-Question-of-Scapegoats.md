@@ -4,6 +4,7 @@ categories: posts
 tags: posts
 title: The Question of Scapegoats
 postage: true
+labels: project
 ---
 
 *<span style="font-size: 0.8em">This paper is a major work I wrote in English Extension 2 for the NSW HSC Examination. It looks into the symbolic representation of scapegoating in Primo Levi's "The Question of Centaurs"</span>*

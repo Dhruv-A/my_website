@@ -8,6 +8,7 @@ GEM
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     faraday (1.7.1)
       faraday-em_http (~> 1.0)
@@ -28,6 +29,7 @@ GEM
     faraday-net_http_persistent (1.2.0)
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
+    ffi (1.15.4)
     ffi (1.15.4-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -99,6 +101,8 @@ GEM
     rouge (3.26.0)
     ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
+    sassc (2.4.0)
+      ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     sawyer (0.8.2)
@@ -113,8 +117,10 @@ GEM
       tzinfo (>= 1.0.0)
     unicode-display_width (1.7.0)
     wdm (0.1.1)
+    webrick (1.7.0)
 
 PLATFORMS
+  universal-darwin-21
   x64-mingw32
 
 DEPENDENCIES
@@ -127,6 +133,7 @@ DEPENDENCIES
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
+  webrick
 
 BUNDLED WITH
    2.2.26

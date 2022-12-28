@@ -4,6 +4,7 @@ categories: reflections
 tags: reflections
 title: A Note on Negotiation
 refl: true
+labels: educational university
 ---
 
 *<span style="font-size: 0.8em">This is a compilation of lessons learnt and interesting questions I have from OIDD 2910 - Negotiations - at The Wharton School of the University of Pennsylvania.</span>*

@@ -13,3 +13,93 @@ $link-color: #FF533D;
 body {
     font-size: $type-size-6;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|Nunito&display=swap');
+
+
+.chip{
+	padding: 0.2rem 0.3rem;
+	border-radius: 0.8rem;
+	font-weight: 600;
+	font-size: 0.4rem;
+	margin: 0 0.15rem;
+	
+	cursor: pointer;
+}
+
+.chip.primary{
+	background: #2F4058;
+	color: whitesmoke;
+}
+
+.chip.secondary{
+	background: #242933;
+	color: #777;
+}
+
+.chip.warning{
+	background:#FEB904;
+	color: whitesmoke;
+}
+.chip.danger{
+	background: #DA605B;
+	color: whitesmoke;
+}
+
+.chip.info{
+	background: #5FD6D4;
+	color: whitesmoke;
+}
+
+.chip.educational{
+	background: rgb(15, 194, 45);
+	color: whitesmoke;
+}
+
+.chip.project{
+	background: rgb(15, 159, 188);
+	color: whitesmoke;
+}
+
+.chip.extracurricular{
+	background: rgb(159, 20, 152);
+	color: whitesmoke;
+}
+
+.chip.university{
+	background: rgb(53, 4, 167);
+	color: whitesmoke;
+}
+
+.chip.easy{
+	background: rgb(7, 185, 129);
+	color: whitesmoke;
+}
+
+.chip.medium{
+	background: rgb(196, 111, 20);
+	color: whitesmoke;
+}
+
+.chip.hard{
+	background: rgb(211, 50, 45);
+	color: whitesmoke;
+}
+
+.chip-avatar{
+	border-radius: 30px;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+}
+.chip-avatar img{
+	height: 25px;
+	width: 25px;
+	border-radius: 50px;
+}
+
+.chip-avatar label{
+	margin-left: 5px;
+	font-size: 12px;
+}
+

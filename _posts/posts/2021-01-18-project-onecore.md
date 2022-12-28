@@ -4,6 +4,7 @@ categories: posts
 tags: posts
 title: Project Onecore
 postage: true
+labels: educational project
 ---
 
 

@@ -4,6 +4,7 @@ categories: posts
 tags: posts
 title: First Year Compsci Crash Course
 postage: true
+labels: educational
 ---
 
 

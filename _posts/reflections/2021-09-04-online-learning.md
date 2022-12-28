@@ -4,6 +4,7 @@ categories: reflections
 tags: reflections
 title: Online Learning at Uni
 refl: true
+labels: university
 ---
 
 Since about week 4 of term 2, uni has been completely online. My experience as a first year was unique because I had a period of online high school in 2020 and so I had some ideas for how lockdown would turn out. I expected lockdown to be:
@@ -80,12 +81,6 @@ As one of the IT directors in UCBS at UNSW, one of my first tasks in lockdown wa
 In the past, I put a huge emphasis on technical proficiency when filling out applications. My reasoning was that with a billion activities and awards there was no way I wouldn't succeed. From looking at the applications to my portfolio in UCBS I realised that was definitely not the case.
 
 Reading through each person's application, I realised how much certain aspects of application questions matter. It didn't matter how experienced someone was if they didn't put time into answering the prompts and showed no engagement with the role they wanted. Additionally, the people who shone through the interviews were those who had a good balance between technical and interpersonal skills.
-
-## Trying out Genshin
-
-After my exams were over and it was time to relax, one of my friends convinced me to try out genshin. Although I'd watched her play several times, I was too lazy to play a game that required so much concentration over long periods of time.
-
-I played the game for about an hour and even though it seemed interesting, it was a lot of effort connecting my PS4 to my monitor and I didn't really have the time to play again amongst all the other things I'm doing. However, I'm definitely going to give it another chance in the coming week and after a few more hours I might start to get more invested in the game.
 
 ## Learning Ahead
 
