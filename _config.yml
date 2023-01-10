@@ -43,6 +43,7 @@ defaults:
       show_date: true # shows the dates of posts
       read_time: true # adds the read time of an article - default = 200wpm
       comments: true
+      applause_button: false
 comments:
   provider: "disqus"
   disqus:

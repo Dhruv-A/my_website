@@ -118,3 +118,13 @@ $base0f: #d33682 !default;
 	font-size: 12px;
 }
 
+
+applause-button {
+	width: 60px;
+	height: 60px;
+	margin: 20px 0 0 0;
+  
+	.count-container {
+	  color: inherit;
+	}
+  }
