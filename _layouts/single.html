@@ -64,11 +64,14 @@ layout: default
     </div>
 
     {% if page.applause_button %}
+      {% unless page.applause_button %}
+
       In Development ## Applause Button ## 
         <applause-button
             color={{ site.accent_color | default:'rgb(79,177,186)' }}
             url={{ document.url | absolute_url }} >
         </applause-button>
+        {% endunless %}
     {% endif %}
 
     {% if site.comments.provider and page.comments %}
